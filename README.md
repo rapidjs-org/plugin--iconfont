@@ -1,4 +1,4 @@
-## [rJS](https://rapidjs.org) Plugin: Iconfont
+## Iconfont &hairsp; <a href="https://rapidjs.org" target="_blank"><img src="https://rapidjs.org/assets/img/plugin-badge.svg" alt="rJS Plugin"></a>
 
 Direct iconfont from SVG icon files.
 
