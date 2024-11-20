@@ -22,9 +22,9 @@ npm i rapidjs-org/plugin--iconfont
    └─ /iconfont
       ├─ __rjs.plugin.json
       └─ /icons
-         ├─ 1-plus.svg
-         ├─ 2-chevron.svg
-         └─ 3-cross.svg
+         ├─ 00-plus.svg
+         ├─ 01-chevron.svg
+         └─ 02-cross.svg
 ```
 
 <sub><code>public/style.css</code></sub>
